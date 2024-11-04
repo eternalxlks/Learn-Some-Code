@@ -2,7 +2,7 @@
 1. Bootstrap 5 template
 2. Github Pages Repository
 3. Your mind and hands!
-4. The repository name: example.github.io
+4. The repository name: example.github.io (Where it says example, you have to put in your Github Name! not something like fortnitegyatt.github.io)
 
 ## First Thing To Do!
 1. Make a repository!
