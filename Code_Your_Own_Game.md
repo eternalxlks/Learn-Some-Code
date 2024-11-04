@@ -1,3 +1,3 @@
 It honestly doesn't work, but this is mine!
 
-https://eternalxlkswebpong.github.io
+https://eternalxlks.github.io/eternalxlkswebpong.github.io
