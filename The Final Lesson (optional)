@@ -1,4 +1,4 @@
-Here's how to make a basic sea expirience with CodePen!
+# Here's how to make a basic marine life example using 3 languages!
 
 https://codepen.com
 
@@ -31,7 +31,7 @@ canvas {
 }
 
 
-This is used for the background and color of the fish.
+This is used for the background, a deep marine space
 
 For the JavaScript Section: (warning this is going to be long)
 
@@ -266,5 +266,8 @@ window.addEventListener('resize', () => {
 });
 
 // Finally done with this repository!
+
+
+
 
 
