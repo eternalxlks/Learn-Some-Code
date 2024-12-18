@@ -2,20 +2,21 @@
 
 And Ignore the comments starting with this: //this is a example for a comment!
 
-https://codepen.com
+https://codepen.io
 
 Make A Pen, and call it whatever you want!
 
 For The HTML section, write this:
 
-<div class="container-bubble">
+```<div class="container-bubble">
     <canvas id="fishCanvas"></canvas>
 </div>
+```
 
 This acts as the sea!
 
 And For the CSS section:
-
+```
 .container-bubble {
     position: fixed;
     top: 0;
@@ -31,12 +32,13 @@ canvas {
     width: 100%;
     height: 100%;
 }
-
+```
 
 This is used for the background, a deep marine space
 
 For the JavaScript Section: (warning this is going to be long)
 
+```
 const canvas = document.getElementById("fishCanvas");
 const ctx = canvas.getContext("2d");
 
@@ -268,6 +270,7 @@ window.addEventListener('resize', () => {
 });
 
 // Finally done with this repository!
+```
 
 
 
