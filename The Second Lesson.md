@@ -5,6 +5,7 @@ and the most common header is this:
 <h1>
 
 You can go crazy with it! Check This out!
+
 ```
 <!doctype html>
 <html lang="en">
