@@ -2,7 +2,7 @@ Well, so pretty much this isn't the right place to learn how to code but it's be
 
 Our First Topic Is well JavaScript
 It's pretty easy once you get the hand of it.
-First: go to new tab on chrome and type up about:blank
+First: go to new tab on chrome and type up <strong>about:blank</strong>
 This is where you test your code.
 First do this in the searchbar: 
 ```js
