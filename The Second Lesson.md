@@ -20,7 +20,7 @@ You can go crazy with it! Check This out!
   </body>
 </html>
 ```
-That is a basic header for a website, you can change the name where it says <title>, and <h1>
+That is a basic header for a website, you can change the name where it says <title>, and <h1></h1>
 
 In the end, all of that coding only says Hello, People! Coding is a very laborious job. 
 
