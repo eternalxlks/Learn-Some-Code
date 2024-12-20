@@ -2,7 +2,7 @@ Hello, and today, we are going to learn HTML!
 HTML stands for hypertext markup language
 and the most common header is this:
 
-<h1>
+<h1></h1>
 
 You can go crazy with it! Check This out!
 
@@ -27,7 +27,7 @@ In the end, all of that coding only says Hello, People! Coding is a very laborio
 How To Make Text Smaller with HTML:
 This is pretty easy:
 ```
-<h1 style="font-size:1em ;"> HellO! </h1>
+<h1 style="font-size:1em ;"> Hello!</h1>
 ```
 
 Again with the header <h1> and you should always end it with </h1>.
